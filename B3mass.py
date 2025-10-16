@@ -1,6 +1,3 @@
-
-#@diwazz
-
 import httpx
 import re
 import random
